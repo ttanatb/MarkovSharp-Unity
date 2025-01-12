@@ -1,0 +1,10 @@
+{
+  "name": "com.markovsharp",
+  "version": "0.0.1",
+  "displayName": "Markov Sharp",
+  "type": "tool",
+  "hideInEditor": false,
+  "description": "Markov Chain for C#",
+  "dependencies": {
+  }
+}

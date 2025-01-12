@@ -1,5 +1,4 @@
-﻿using log4net;
-using MarkovSharp.Components;
+﻿using MarkovSharp.Components;
 using MarkovSharp.Models;
 using MarkovSharp.TokenisationStrategies;
 using System;
@@ -7,8 +6,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
-[assembly: log4net.Config.XmlConfigurator(ConfigFile = "log4net.config", Watch = true)]
 
 namespace MarkovSharp
 {
